@@ -1,6 +1,6 @@
-\*\* Create command line interface app that scrapes the current version of the website
+** Create command line interface app that scrapes the current version of the website
 
-```bash
+```
 
 App scrapes the current version of the website and saves the first 10 images
 
